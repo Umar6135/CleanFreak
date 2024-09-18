@@ -1,0 +1,12 @@
+[22-Nov-2022 17:24:40 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 6
+[22-Nov-2022 17:24:40 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
+[22-Nov-2022 17:25:11 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 6
+[22-Nov-2022 17:25:11 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
+[22-Nov-2022 17:25:42 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 6
+[22-Nov-2022 17:25:42 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
+[22-Nov-2022 17:27:18 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 11
+[22-Nov-2022 17:27:18 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
+[22-Nov-2022 17:32:29 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 11
+[22-Nov-2022 17:32:29 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
+[22-Nov-2022 17:33:56 Europe/Warsaw] PHP Warning:  Undefined variable $emailaddress in /home/genergypoland/public_html/genergy-gmbh.de/form/php/settings/settings.php on line 11
+[22-Nov-2022 17:33:56 Europe/Warsaw] PHP Warning:  Undefined variable $errors in /home/genergypoland/public_html/genergy-gmbh.de/form/php/smartprocess.php on line 29
