@@ -1,16 +1,15 @@
 <?php
-$GLOBALS['title'] = "XXX";
-$GLOBALS['desc'] = "XXX";
-$GLOBALS['keywords'] = "XXX";
+$GLOBALS['title'] = "Eco-Friendly Residential Cleaning Services in Oklahoma";
+$GLOBALS['desc'] = "Discover Clean Freaks 405, your trusted partner for non-toxic, eco-friendly cleaning solutions. Tailored services for a healthier home in Edmond, Yukon, and beyond.";
+$GLOBALS['keywords'] = "residential cleaning, eco-friendly cleaning, non-toxic cleaning, home cleaning services, Clean Freaks 405, Oklahoma cleaning";
 include('header.php'); ?>
-
 
 
 
     <!-- banner  -->
     <section class="service-banner">
         <div class="banner-img">
-            <img src="./assets/img/general-cleaning.webp" alt="">
+            <img src="./assets/img/general-cleaning.webp" alt="" style="object-position: 50% 64%;">
             <div class="overlay"></div>
         </div>
         <div class="container">
@@ -48,7 +47,7 @@ include('header.php'); ?>
 
 
            <h4>Professional and Trustworthy Team</h4>
-           <p>Our cleaners are fully trained, insured, and passionate about providing top-notch service. You can count on us to arrive on time, respect your home, and leave every space spotless.</p>
+           <p>Our cleaners are background checked, fully trained, insured, and passionate about providing top-notch service. You can count on us to arrive on time, respect your home, and leave every space spotless.</p>
 
            <h4>Local and Reliable</h4>
            <p>As a locally-owned business, we take pride in serving our community. We’re committed to building long-term relationships with our clients, and we’ll go the extra mile to ensure your satisfaction every time.</p>
@@ -93,13 +92,11 @@ include('header.php'); ?>
 
                     </h5>
 
-                    <p class="text-white aos-init aos-animate" data-aos="fade-up" data-aos-delay="300"
-                        data-aos-duration="1000">The experts for maintenance cleaning in ORC's </span> </p>
+                    
 
                 </div>
 
-                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We will
-                    advise you free of charge and without obligation – call us or use the contact form on the website.
+                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We provide you with an estimate free of charge and without obligation - call us or use the contact form on the website.
 
 
 
@@ -118,8 +115,8 @@ include('header.php'); ?>
                     </a>
 
 
-                    <a href="tel:99999999999" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
-                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 9999 999 99 99</a>
+                    <a href="tel:4054062287" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
+                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 405-406-2287</a>
                 </div>
 
             </div>

@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+// 3. Themes
+@import 'themes/default';
+
 // 1. Configuration and helpers
 @import 'abstracts/variables';
 
@@ -9,8 +12,7 @@
 'base/typography',
 'base/icons';
 
-// 3. Themes
-@import 'themes/default';
+
 
 // 4. Layouts
 @import 'layouts/header';

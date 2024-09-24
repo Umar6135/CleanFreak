@@ -30,7 +30,7 @@
 
 	------------------------------------------------------ */
 
-	$receiver_email = "info@markus-nowakowski.de";
+	$receiver_email = "cleanfreaksokc@gmail.com";
 
 	
 
@@ -44,7 +44,7 @@
 
 	$redirectForm = true;
 
-	$redirectForm_url = "../../danke";
+	$redirectForm_url = "../../index.php";
 
 	
 

@@ -30,13 +30,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'umarazam286@gmail.com';                     //SMTP username
-    $mail->Password   = 'ulxs tdga myvg wddv';                               //SMTP password
+    $mail->Username   = 'cleanfreaksokc@gmail.com';                     //SMTP username
+    $mail->Password   = 'abcd efgh ijkl mnop';                               //SMTP password
     $mail->SMTPSecure = 'ssl';          //Enable implicit TLS encryption
     $mail->Port       = 465;
     $mail->CharSet = "UTF-8";
-    $mail->SetFrom('umarazam286@gmail.com', 'Cleanfreak');
-    $mail->AddAddress('umarazam286@gmail.com', 'Cleanfreak');
+    $mail->SetFrom('cleanfreaksokc@gmail.com', 'Cleanfreak');
+    $mail->AddAddress('cleanfreaksokc@gmail.com', 'Cleanfreak');
     $mail->AddReplyTo($emailaddress, $guestname);
     $mail->IsHTML(true);
     $mail->Subject = 'Bewerbung von ' . $guestname;
@@ -51,8 +51,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             	 <p>Name: ' . $guestname . $lastname . '</p>
 				 <p>E-Mail: ' . $emailaddress . '</p>
 				 <p>Telefonnummer: ' . $telephone . '</p>
-				 <p>Straße inklusive Hausnummer : ' . $adresse . '</p>             
+				 <p>Cleaning Type: ' . $CleaningType . '</p>
+				 <p>Adress : ' . $adresse . '</p>             
+				 <p>City : ' . $City . '</p>             
 				 <p>PostelCode: ' . $PostelCode . '</p>             
+				 <p>Squarefootage: ' . $Squarefootage . '</p>             
 				 <p>state: ' . $state . '</p>             
  
 				

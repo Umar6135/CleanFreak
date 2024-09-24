@@ -26,11 +26,14 @@
   <meta name="description" content="<?php echo $desc ?>" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="./assets/css/owl-carousal.css">
+    <!-- <link href="./assets/css/aos.css" rel="stylesheet"> -->
+    <link rel="preload" href="./assets/css/style.min.css" as="style" />
     <link rel="stylesheet" href="./assets/css/style.min.css">
     <link rel="preload" href="./assets/img/banner-bg.webp" as="Image" />
+
+
+    
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
 
 </head>
 
@@ -41,15 +44,15 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="ht-social">
-                        <a href="#" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=61558004429418" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="ht-contact">
-                        <span>405-767-9049</span>
+                        <a href="tel:4054062287">405-406-2287</a>
                         <span>|</span>
 
-                        <a href="">info@commercialcleaningok.com</a>
+                        <a href="mailto:cleanfreaksokc@gmail.com">cleanfreaksokc@gmail.com</a>
                     </div>
                 </div>
             </div>
@@ -100,7 +103,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./who-we-serve.php">
-                                Who We Serve</a>
+                            Cleaning Blog</a>
                         </li>
                         
                         <li class="nav-item">

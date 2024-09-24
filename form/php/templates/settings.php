@@ -30,7 +30,7 @@
 
 	------------------------------------------------------ */
 
-	$receiver_email = "info@markus-nowakowski.de";
+	$receiver_email = "cleanfreaksokc@gmail.com";
 
 	
 

@@ -1,9 +1,8 @@
 <?php
-$GLOBALS['title'] = "XXX";
-$GLOBALS['desc'] = "XXX";
-$GLOBALS['keywords'] = "XXX";
+$GLOBALS['title'] = "Trusted Cleaning Services for Various Industries";
+$GLOBALS['desc'] = "Clean Freaks 405 proudly serves a diverse range of sectors including auto dealerships, banks, construction, education, fitness, and more. Discover our tailored cleaning solutions for your industry.";
+$GLOBALS['keywords'] = "cleaning services, commercial cleaning, industry-specific cleaning, auto dealerships, healthcare cleaning, retail cleaning, Clean Freaks 405";
 include('header.php'); ?>
-
 
 
 

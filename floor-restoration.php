@@ -95,7 +95,7 @@ include('header.php'); ?>
                 computer rooms, and even exteriors of buildings.
 
             </p>
-            <a href="" class="theme-btn">Book Your Apppointment now</a>
+            <a href="./contact.php" class="theme-btn">Book Your Apppointment now</a>
         </div>
         <div class="about-img h-100" data-aos="fade-left" data-aos-duration="1000">
             <img src="./assets/img/restoration-2.jpg" width="1154"  >
@@ -123,13 +123,11 @@ include('header.php'); ?>
 
                     </h5>
 
-                    <p class="text-white aos-init aos-animate" data-aos="fade-up" data-aos-delay="300"
-                        data-aos-duration="1000">The experts for maintenance cleaning in ORC's </span> </p>
+                    
 
                 </div>
 
-                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We will
-                    advise you free of charge and without obligation – call us or use the contact form on the website.
+                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We provide you with an estimate free of charge and without obligation - call us or use the contact form on the website.
 
 
 
@@ -148,8 +146,8 @@ include('header.php'); ?>
                     </a>
 
 
-                    <a href="tel:99999999999" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
-                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 9999 999 99 99</a>
+                    <a href="tel:4054062287" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
+                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 405-406-2287</a>
                 </div>
 
             </div>

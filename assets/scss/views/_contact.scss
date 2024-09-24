@@ -1,6 +1,7 @@
 .contact-us{
     background-color: #efefef;
     padding-block: 100px;
+    margin-bottom: 50px;
     h2{
         color: $secondry-color;
     text-align: center;
@@ -18,7 +19,7 @@ h3{
 }
 p{
     font-weight: 700;
-    font-size: 16px;
+    font-size: 16px; 
     color: $text-color;
     margin-bottom: 10px;
 }

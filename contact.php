@@ -1,23 +1,9 @@
 <?php
-$GLOBALS['title'] = "XXX";
-$GLOBALS['desc'] = "XXX";
-$GLOBALS['keywords'] = "XXX";
+$GLOBALS['title'] = "Contact Clean Freaks 405 for Your Cleaning Needs";
+$GLOBALS['desc'] = "Get in touch with Clean Freaks 405! We’re here to answer your questions and provide tailored cleaning solutions for your home or business. Reach out today!";
+$GLOBALS['keywords'] = "contact us, cleaning services, Clean Freaks 405, customer support, request a quote";
 include('header.php'); ?>
 
-
-
-
-
-
-<!-- banner  -->
-<section class="service-banner">
-    <div class="banner-img">
-        <img src="./assets/img/contct.bg.jpg" alt="">
-        <div class="overlay"></div>
-    </div>
-    <div class="container">
-    </div>
-</section>
 
 
 <section class="contact-us">
@@ -127,8 +113,7 @@ include('header.php'); ?>
                 </form>
             </div>
             <div class="col-lg-6">
-                <h2>No matter what your needs are, we can deliver a disinfecting program that provides consistent,
-                    quality cleaning that enhances the value of your business.</h2>
+                <h2>Let us deliver the perfect cleaning solutions for your home or business!</h2>
             </div>
         </div>
     </div>

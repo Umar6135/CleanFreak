@@ -167,7 +167,20 @@
         font-size: 36px;
         margin-block: 15px;
     }
-
+    header .navbar-brand img{
+        max-width: 100px;
+        height: auto;
+    }
+    .services-section .card{
+        height: auto !important;
+    }
+    .review-heading h4{
+        font-size: 32px;
+    }
+    .banner-logo img{
+        max-width: 150px;
+        height: auto;
+    }
     .banner-content .theme-btn {
         font-size: 11px;
         padding: 6px 13px;

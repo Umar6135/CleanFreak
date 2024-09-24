@@ -5,7 +5,7 @@
             <i class="fa-solid fa-phone"></i>
             <div>
                 <p>Give us a call</p>
-                <a href="tel:405-767-9049">405-767-9049</a>
+                <a href="tel:405-406-2287">405-406-2287</a>
             </div>
         </div>
 
@@ -13,19 +13,19 @@
             <i class="fas fa-envelope"></i>
             <div>
                 <p>Send an email</p>
-                <a href="mailto:info@commercialcleaningok.com">info@commercialcleaningok.com</a>
+                <a href="mailto:cleanfreaksokc@gmail.com">cleanfreaksokc@gmail.com</a>
             </div>
         </div>
 
-        <button class="theme-btn" data-aos="fade-right" data-aos-duration="1000">REQUEST A QUOTE</button>
+        <a href="./contact.php" class="theme-btn" data-aos="fade-right" data-aos-duration="1000">REQUEST A QUOTE</a>
     </footer>
 
     <div class="copyright">
         <div class="container">
             <div class="copyright-content">
-                <p>2024 Commercial Cleaning Services of Oklahoma - Website Designed By <a href="mailto:umarazam286@gmail.com" >Umar Azam</a></p>
+                <p>2024 Clean Freaks 405 - Website Designed and Developed By <a href="mailto:umarazam286@gmail.com" >Umar Azam</a></p>
                 <div class="social-icons">
-                    <a href="https://www.facebook.com" aria-label="facebook" target="_blank" class="social-icon">
+                    <a href="https://www.facebook.com/profile.php?id=61558004429418" aria-label="facebook" target="_blank" class="social-icon">
                         <i class="fab fa-facebook-f"></i>
                     </a>
                 </div>
@@ -37,13 +37,20 @@
         <i class="fas fa-chevron-up"></i>
     </a>
 
-    <script src="./assets/js/jquery-3.1.1.min.js"></script>
-    <script src="./assets/js/bootstrap.bundle.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="./assets/js/jquery-3.1.1.min.js" ></script>
+<script src="./assets/js/bootstrap.bundle.min.js" defer></script>
+<script src="./assets/js/owl-carousal.js" defer></script>
+<script src="./assets/js/main.js" defer></script>
+<script src="./assets/js/aos.js"></script>
+<script src="./assets/js/jquery.lazyload.js"></script>
 
-    <script src="./assets/js/owl-carousal.js"></script>
-    <script src="./assets/js/main.js"></script>
 
+
+<script>
+            $("img.lazy").lazyload({
+            effect: "fadeIn"
+        });
+</script>
 
 
   

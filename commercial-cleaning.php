@@ -1,8 +1,9 @@
 <?php
-$GLOBALS['title'] = "XXX";
-$GLOBALS['desc'] = "XXX";
-$GLOBALS['keywords'] = "XXX";
+$GLOBALS['title'] = "Professional Eco-Friendly Commercial Cleaning Services in OKC";
+$GLOBALS['desc'] = "Clean Freaks 405 offers reliable, non-toxic commercial cleaning solutions tailored to your business needs. Serving offices, gyms, retail spaces, and more in the Oklahoma City area.";
+$GLOBALS['keywords'] = "commercial cleaning, eco-friendly cleaning, non-toxic cleaning, office cleaning services, Clean Freaks 405, OKC cleaning";
 include('header.php'); ?>
+
 
 
 
@@ -43,7 +44,7 @@ include('header.php'); ?>
 
 
            <h4>Professional and Experienced Team</h4>
-           <p>Our team is fully trained, insured, and dedicated to providing the highest standard of service. We understand the importance of maintaining a professional image, and we ensure your space looks its best every time.</p>
+           <p>Our cleaners are background checked, fully trained, insured, and dedicated to providing the highest standard of service. We understand the importance of maintaining a professional image, and we ensure your space looks its best every time.</p>
 
 
            <h4>Tailored Pricing for Commercial Spaces</h4>
@@ -102,13 +103,11 @@ include('header.php'); ?>
 
                     </h5>
 
-                    <p class="text-white aos-init aos-animate" data-aos="fade-up" data-aos-delay="300"
-                        data-aos-duration="1000">The experts for maintenance cleaning in ORC's </span> </p>
+                    
 
                 </div>
 
-                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We will
-                    advise you free of charge and without obligation – call us or use the contact form on the website.
+                <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000" class="aos-init aos-animate">We provide you with an estimate free of charge and without obligation - call us or use the contact form on the website.
 
 
 
@@ -127,8 +126,8 @@ include('header.php'); ?>
                     </a>
 
 
-                    <a href="tel:99999999999" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
-                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 9999 999 99 99</a>
+                    <a href="tel:4054062287" class="theme-btn navbar__btnn smbtn mt-0" data-aos="fade-up"
+                        data-aos-delay="300" data-aos-duration="1000"><i class="icon-phone"></i> 405-406-2287</a>
                 </div>
 
             </div>
