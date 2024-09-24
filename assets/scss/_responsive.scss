@@ -146,6 +146,10 @@
         font-size: 26px;
         line-height: 36px;
     }
+    .sidebar{
+        max-width: 100%;
+        margin-top: 30px;
+    }
 
 
 
@@ -249,6 +253,26 @@ font-size: 16px;
 }
 .contact-us .form {
     max-width: 100%;
+}
+.fusion-page-title .awb-breadcrumb-list{
+    justify-content: center;
+}
+.single-item h2 {
+    font-size: 26px;
+
+}
+.single-item h3 {
+    font-size: 29px;
+margin-bottom: 30px;
+}
+.blog-item{
+    display: block;
+}
+.blog-img img{
+    max-width: 100%;
+}
+.blog-content{
+    margin-top: 30px;
 }
 }
 
@@ -397,5 +421,25 @@ font-size: 16px;
     }
     .contact-us .form input, .contact-us .form select {
         height: 40px;
+    }
+    .service-content h1 {
+        max-width: 100%;
+        font-size: 24px;
+    }
+    .single-item h2 {
+        font-size: 18px;
+    }
+    .single-item p{
+        font-size: 14px;
+    }
+    .single-item h3 {
+        font-size: 23px;
+    }
+    .blog-img img {
+        max-width: 84%;
+    }
+    .blog-item .blog-content a h4 {
+        font-size: 20px;
+
     }
 }
